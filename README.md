@@ -1,7 +1,7 @@
 # How to use
 - Open or use a `port` of your choice and specify it in the script.
 - Note the server's `IP`.
-- Create the link, example : `http://serverip:serverport/keyword` where `keyword` can be anything like the name of a person or group.
+- Create the link. Example : `http://serverip:serverport/keyword` where `keyword` can be anything like the name of a person or group.
 - Send the link to someone on discord and you'll know when they open it in the log of the server.
 
 You can also send the receipt by email by including an image via URL in the body of the email.

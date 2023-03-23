@@ -1,7 +1,7 @@
 import socket
 from datetime import datetime
 
-SERVER_HOST = "0.0.0.0"
+SERVER_HOST = "127.0.0.1"
 SERVER_PORT = 8080
 IMAGE_PATH = "1x1.png"
 IMAGE_SIZE = 124
